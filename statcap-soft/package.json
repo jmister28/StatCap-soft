@@ -1,0 +1,12 @@
+{
+  "name": "statcap-soft",
+  "version": "0.2.0",
+  "description": "pre release of StatCap™ software",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesse Malnik",
+  "license": "ISC",
+  "dependencies": {}
+}
